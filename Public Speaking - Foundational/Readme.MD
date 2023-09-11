@@ -11,7 +11,14 @@ The Foundational Learning Path is designed to provide you with the basic knowled
    1. 3.2.Offer
    1. 3.3.Fight,+flight,+or+freeze+cycle
    1. 3.4.Mindset+Worksheet+(2)
-
+   1. 3.5.One+Powerful+Mindset+Shift
+   1. Color blind or color brave? | Mellody Hobson https://www.youtube.com/watch?v=oKtALHe3Y9Q&t=4s
+   1. https://www.youtube.com/watch?v=3tYto5PrSOI
+   1. Tony Robbins Best Motivational Video - The Speech to Inspire Masses https://www.youtube.com/watch?v=7xUMVleKXCU
+   1. Brene Brown Braving https://www.youtube.com/watch?v=0SqFiTeka_I
+   1. The power of introverts | Susan Cain https://www.youtube.com/watch?v=c0KYU2j0TM4&t=38s
+   1. Why you should define your fears instead of your goals | Tim Ferriss https://www.youtube.com/watch?v=5J6jAC6XxAI
+   
 # 4.TED's secret to great public speaking
   There's no single formula for a great talk, but there is a secret ingredient that all the best ones have in common. 
   TED curator Chris Anderson shares this secret -- along with four ways to make it work for you. Do you have what it takes to share an idea worth spreading?
