@@ -6,3 +6,9 @@ The Foundational Learning Path is designed to provide you with the basic knowled
 # 2.Master Public Speaking to Become a Leader at Work. Speak Up!
  https://toptal.udemy.com/course/speak-up-public-speaking-for-leadership-development
 
+# 3.TED's secret to great public speaking
+  There's no single formula for a great talk, but there is a secret ingredient that all the best ones have in common. 
+  TED curator Chris Anderson shares this secret -- along with four ways to make it work for you. Do you have what it takes to share an idea worth spreading?
+  https://www.ted.com/talks/chris_anderson_ted_s_secret_to_great_public_speaking?referrer=playlist-how_to_make_a_great_presentation&autoplay=true
+
+
