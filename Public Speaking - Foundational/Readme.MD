@@ -18,6 +18,13 @@ The Foundational Learning Path is designed to provide you with the basic knowled
    1. Brene Brown Braving https://www.youtube.com/watch?v=0SqFiTeka_I
    1. The power of introverts | Susan Cain https://www.youtube.com/watch?v=c0KYU2j0TM4&t=38s
    1. Why you should define your fears instead of your goals | Tim Ferriss https://www.youtube.com/watch?v=5J6jAC6XxAI
+   1. How to Build Confidence | Robin Sharma https://www.youtube.com/watch?v=okqrdrmCedo
+   1. Sheryl Sandberg Gives UC Berkeley Commencement Keynote Speech https://www.youtube.com/watch?v=iqm-XEqpayc
+   1. Why good leaders make you feel safe | Simon Sinek https://www.youtube.com/watch?v=lmyZMtPVodo
+   1. Your elusive creative genius https://www.ted.com/talks/elizabeth_gilbert_your_elusive_creative_genius?language=en
+   1. Do schools kill creativity? https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity
+   1. Oprah’s Tearful Speech at Power of Women https://www.youtube.com/watch?v=6Rfn94k717U
+   1. Never Split The Difference | Chris Voss | TEDxUniversityofNevada https://www.youtube.com/watch?v=MjhDkNmtjy0 
    
 # 4.TED's secret to great public speaking
   There's no single formula for a great talk, but there is a secret ingredient that all the best ones have in common. 
