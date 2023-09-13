@@ -7,11 +7,11 @@ The Foundational Learning Path is designed to provide you with the basic knowled
 
 # 3. Master Public Speaking to Become a Leader at Work. Speak Up!
  https://toptal.udemy.com/course/speak-up-public-speaking-for-leadership-development
-   1. 3.1.My+Speaking+Goals
-   1. 3.2.Offer
-   1. 3.3.Fight,+flight,+or+freeze+cycle
-   1. 3.4.Mindset+Worksheet+(2)
-   1. 3.5.One+Powerful+Mindset+Shift
+   1. [3.01.My+Speaking+Goals](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/main/Public%20Speaking%20-%20Foundational/3.01.My%2BSpeaking%2BGoals.pdf)
+   1. 3.02.Offer
+   1. 3.03.Fight,+flight,+or+freeze+cycle
+   1. 3.04.Mindset+Worksheet+(2)
+   1. 3.05.One+Powerful+Mindset+Shift
    1. Color blind or color brave? | Mellody Hobson https://www.youtube.com/watch?v=oKtALHe3Y9Q&t=4s
    1. https://www.youtube.com/watch?v=3tYto5PrSOI
    1. Tony Robbins Best Motivational Video - The Speech to Inspire Masses https://www.youtube.com/watch?v=7xUMVleKXCU
