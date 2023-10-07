@@ -30,7 +30,7 @@
   1. Heads up! Your body language choices influence your mind
   1. The most powerful body position to feel and exude confidence and authority
       1. [3.07.Stay+in+your+center+and+keep+your+feet+in+cement.pdf](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/main/Public%20Speaking%20-%20Foundational/3.%20Master%20Public%20Speaking%20to%20Become%20a%20Leader%20at%20Work/3.07.Stay%2Bin%2Byour%2Bcenter%2Band%2Bkeep%2Byour%2Bfeet%2Bin%2Bcement.pdf)
-      1. [3.08.Daily+practice-+Find+your+center.m4a](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/main/Public%20Speaking%20-%20Foundational/3.%20Master%20Public%20Speaking%20to%20Become%20a%20Leader%20at%20Work./3.08.Daily%2Bpractice-%2BFind%2Byour%2Bcenter.m4a)
+      1. [3.08.Daily+practice-+Find+your+center.m4a](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/main/Public%20Speaking%20-%20Foundational/3.%20Master%20Public%20Speaking%20to%20Become%20a%20Leader%20at%20Work/3.08.Daily%2Bpractice-%2BFind%2Byour%2Bcenter.m4a)
   1. Mastering authentic and impactful eye contact
       1. [3.09.Daily+practice-+Master+effective+eye+contact.m4a](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/main/Public%20Speaking%20-%20Foundational/3.%20Master%20Public%20Speaking%20to%20Become%20a%20Leader%20at%20Work./3.09.Daily%2Bpractice-%2BMaster%2Beffective%2Beye%2Bcontact.m4a)
       1. [3.10.Mastering+authentic,+impactful+eye+contact.pdf](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/main/Public%20Speaking%20-%20Foundational/3.%20Master%20Public%20Speaking%20to%20Become%20a%20Leader%20at%20Work./3.10.Mastering%2Bauthentic%2C%2Bimpactful%2Beye%2Bcontact.pdf)
