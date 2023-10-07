@@ -16,8 +16,6 @@
   1. Here's how to "be yourself" when it's the hardest thing to do.
   1. Learn how to expand the range of your communication style.
     1. [Color blind or color brave? | Mellody Hobson](https://www.youtube.com/watch?v=oKtALHe3Y9Q&t=4s)
-    1. [Tony Robbins Best Motivational Video - The Speech to Inspire Masses](https://www.youtube.com/watch?v=7xUMVleKXCU)
-    1. [Brene Brown Braving](https://www.youtube.com/watch?v=0SqFiTeka_I)
     1. [The power of introverts | Susan Cain](https://www.youtube.com/watch?v=c0KYU2j0TM4&t=38s)
     1. [Why you should define your fears instead of your goals | Tim Ferriss](https://www.youtube.com/watch?v=5J6jAC6XxAI)
     1. [How to Build Confidence | Robin Sharma](https://www.youtube.com/watch?v=okqrdrmCedo)
@@ -28,10 +26,10 @@
     1. [Oprah’s Tearful Speech at Power of Women](https://www.youtube.com/watch?v=6Rfn94k717U)
     1. [Never Split The Difference | Chris Voss | TEDxUniversityofNevada](https://www.youtube.com/watch?v=MjhDkNmtjy0) 
 * The Body Languate of Being Taken Seriously
-  1. Self awareness is key to changing your vocal and body language habits.- [3.06.Speaker Assessment Handout](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/main/Public%20Speaking%20-%20Foundational/3.%20Master%20Public%20Speaking%20to%20Become%20a%20Leader%20at%20Work./3.06.Speaker%2BAssessment%2BHandout.pdf)
+  1. Self awareness is key to changing your vocal and body language habits.- [3.06.Speaker Assessment Handout](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/main/Public%20Speaking%20-%20Foundational/3.%20Master%20Public%20Speaking%20to%20Become%20a%20Leader%20at%20Work/3.06.Speaker%2BAssessment%2BHandout.pdf)
   1. Heads up! Your body language choices influence your mind
   1. The most powerful body position to feel and exude confidence and authority
-      1. [3.07.Stay+in+your+center+and+keep+your+feet+in+cement.pdf](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/main/Public%20Speaking%20-%20Foundational/3.%20Master%20Public%20Speaking%20to%20Become%20a%20Leader%20at%20Work./3.07.Stay%2Bin%2Byour%2Bcenter%2Band%2Bkeep%2Byour%2Bfeet%2Bin%2Bcement.pdf)
+      1. [3.07.Stay+in+your+center+and+keep+your+feet+in+cement.pdf](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/main/Public%20Speaking%20-%20Foundational/3.%20Master%20Public%20Speaking%20to%20Become%20a%20Leader%20at%20Work/3.07.Stay%2Bin%2Byour%2Bcenter%2Band%2Bkeep%2Byour%2Bfeet%2Bin%2Bcement.pdf)
       1. [3.08.Daily+practice-+Find+your+center.m4a](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/main/Public%20Speaking%20-%20Foundational/3.%20Master%20Public%20Speaking%20to%20Become%20a%20Leader%20at%20Work./3.08.Daily%2Bpractice-%2BFind%2Byour%2Bcenter.m4a)
   1. Mastering authentic and impactful eye contact
       1. [3.09.Daily+practice-+Master+effective+eye+contact.m4a](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/main/Public%20Speaking%20-%20Foundational/3.%20Master%20Public%20Speaking%20to%20Become%20a%20Leader%20at%20Work./3.09.Daily%2Bpractice-%2BMaster%2Beffective%2Beye%2Bcontact.m4a)
