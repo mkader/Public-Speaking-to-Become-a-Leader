@@ -12,7 +12,7 @@
   7. Adopt a winning mindset.
   8. Here's one foolproof mindset shift. - [3.05.One+Powerful+Mindset+Shift](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/main/Public%20Speaking%20-%20Foundational/3.%20Master%20Public%20Speaking%20to%20Become%20a%20Leader%20at%20Work/3.05.One%2BPowerful%2BMindset%2BShift.pdf)
 * Assessing Your Communication Style
-  1. Discover your unique "communication style."  [3.09.Communication+Style+Worksheet](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/main/Public%20Speaking%20-%20Foundational/3.%20Master%20Public%20Speaking%20to%20Become%20a%20Leader%20at%20Work./3.09.Communication+Style+Worksheet.pdf)
+  1. Discover your unique "communication style."  [3.09.Communication+Style+Worksheet](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/main/Public%20Speaking%20-%20Foundational/3.%20Master%20Public%20Speaking%20to%20Become%20a%20Leader%20at%20Work/3.09.Communication%2BStyle%2BWorksheet.pdf)
   1. Here's how to "be yourself" when it's the hardest thing to do.
   1. Learn how to expand the range of your communication style.
     1. [Color blind or color brave? | Mellody Hobson](https://www.youtube.com/watch?v=oKtALHe3Y9Q&t=4s)
