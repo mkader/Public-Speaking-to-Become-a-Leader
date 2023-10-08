@@ -1,5 +1,4 @@
-# 3. Master Public Speaking to Become a Leader at Work. Speak Up!
- https://toptal.udemy.com/course/speak-up-public-speaking-for-leadership-development
+# 3. [Master Public Speaking to Become a Leader at Work. Speak Up!](https://udemy.com/course/speak-up-public-speaking-for-leadership-development)
  
 * Introduction to this Course
   1. Welcome -[3.01.My+Speaking+Goals](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/main/Public%20Speaking%20-%20Foundational/3.%20Master%20Public%20Speaking%20to%20Become%20a%20Leader%20at%20Work/3.01.My%2BSpeaking%2BGoals.pdf)

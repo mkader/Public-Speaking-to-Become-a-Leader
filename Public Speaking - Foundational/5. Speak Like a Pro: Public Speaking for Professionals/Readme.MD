@@ -1,5 +1,4 @@
-# 5. Speak Like a Pro: Public Speaking for Professionals
-    https://toptal.udemy.com/course/speak-like-a-pro-public-speaking-for-professionals/
+# 5. [Speak Like a Pro: Public Speaking for Professionals](https://udemy.com/course/speak-like-a-pro-public-speaking-for-professionals/)
 
 * Welcome
     1. Why Public Speaking Matters - [01.Speak+Like+a+Pro+Glossary+of+Key+Terms+-+www.jenniferhennings.com.pdf](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/main/Public%20Speaking%20-%20Foundational/5.%20Speak%20Like%20a%20Pro%3A%20Public%20Speaking%20for%20Professionals/01.%20Speak%20Like%20a%20Pro%20Glossary%20of%20Key%20Terms.pdf)
