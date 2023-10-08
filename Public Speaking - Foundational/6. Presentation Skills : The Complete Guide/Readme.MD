@@ -72,11 +72,54 @@
 * Stroytelling
     1. The importance of Storytelling
     17. [Exercise] The Importance of Stories
-    18. The ingredients of effective storytelling
+        * Take a few minutes to list all the stories you've experienced that can be included in your next presentation.
+        * List all of these stories indiscriminately, and then answer the following questions:
+            1. The lesson of this story. What did you learn from this story?
+            1. The emotion you felt. How did you feel while living this story? Before, during or after?
+        * Remember that the stories that matter most to your audience members are yours.
+        * Don't underestimate the importance of your stories. You have more stories than you think.
+        * So take a few minutes and do this exercise.
+  18. The ingredients of effective storytelling
     19. The hero's journey
     20. [Exercise] Build your own story
+        * I recommend that you go back to the stories you identified in the previous exercise to verify that they contain the 4 parts of the hero's journey. That is to say:
+            1. The hero is well identified
+            1. The challenge
+            1. The turning point
+            1. The resolution
+        * Your stories give more impact to your presentations. Audience members will remember your stories well but remember very little of the other data from your presentations.
+        * Make sure you have well-constructed stories with the 4 ingredients and enough details to fully immerse your audience in your hero's universe.
 * The different learning styles
     1. [Exercise] Discover your favorite representational system
+        * Among the following sentences, place numbers from 1 to 4 depending on how the sentence describes you.
+        * 4 = this describes me the most, 3 = that describes me well, 2 = less describes me, 1 = does not describe me at all
+        1. I make important decisions based on:
+            * ______my instinct
+            * ______the proposal that resonates well with me
+            * ______the proposal that looks good to me
+            * ______detailed analytical data
+        2. During a conflict, I can be influenced by:
+            * ______the other person's voice
+            * ______my ability to see the other person's point of view
+            * ______the logic in the other person's arguments
+            * ______if I can feel what the other person really feels
+        3. I easily communicate what I live by:
+            * ______the way I dress
+            * ______the emotions I share
+            * ______choice of words I use
+            * ______the tone of my voice
+        4. It is easier for me to:
+            * ______find the ideal volume while listening to music
+            * ______select the best arguments in an intellectual discussion
+            * ______choose the most comfortable furniture
+            * ______choose rich and attractive colors
+        5. 
+            * ______I am very receptive to the sounds of my surroundings
+            * ______I can easily interpret complex data
+            * ______I am very sensitive to the feel of my clothes on my skin
+            * ______I am very attracted to colors and the appearance of objects
+        * Go to the attached PDF file to complete the exercise and discover your favorite sensory channel. [21. Presentation+skills+Exercice_1.pdf]()
+        * Resources for this lecture
     22. Different Learning Styles
     23. Present with charisma using NLP
     24. [Exercise] Translate these predicates
