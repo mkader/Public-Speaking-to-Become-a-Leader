@@ -118,8 +118,7 @@
             * ______I can easily interpret complex data
             * ______I am very sensitive to the feel of my clothes on my skin
             * ______I am very attracted to colors and the appearance of objects
-        * Go to the attached PDF file to complete the exercise and discover your favorite sensory channel. [21. Presentation+skills+Exercice_1.pdf]()
-        * Resources for this lecture
+        * [Go to the attached PDF file to complete the exercise and discover your favorite sensory channel.](https://github.com/mkader/Public-Speaking-to-Become-a-Leader/blob/96ac2ec06f3651be29962f60a332240dab09be84/Public%20Speaking%20-%20Foundational/6.%20Presentation%20Skills%20%3A%20The%20Complete%20Guide/21.%20Presentation%2Bskills%2BExercice_1.pdf)
     22. Different Learning Styles
     23. Present with charisma using NLP
     24. [Exercise] Translate these predicates
